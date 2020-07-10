@@ -1,2 +1,1 @@
-# CarSales
-Deploying car sales using heroku
+# Car-Price-Prediction
